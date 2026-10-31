@@ -1,0 +1,3 @@
+[submodule "web-solvro-docs"]
+	path = web-solvro-docs
+	url = https://github.com/Solvro/web-solvro-docs
